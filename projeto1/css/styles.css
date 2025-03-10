@@ -1,0 +1,63 @@
+.form{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+  background-color: #f5c68d;
+  border-radius: 15px;
+  border: black solid 2px;
+  padding: 10px;
+  }
+
+body {
+    text-align: center;
+    background-color: #ffefdaf2;
+
+}
+.form input{
+    margin: 0 auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 3px 10px 3px 10px;
+    width: 100%;
+
+}
+
+.form select{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 3px 10px 3px 10px;
+    width: 120%;
+}
+
+.h2{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.form div{
+    margin: 0 auto;
+    width: 50%;
+}
+.p7{
+    
+    background-color: rebeccapurple;
+    padding: 1000px ;
+    border-radius: 100px;
+  
+}
+
+.botao input{
+   background-color:#d17a22;
+}
+
+.h3{
+    
+}
